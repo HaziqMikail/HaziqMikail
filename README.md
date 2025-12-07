@@ -1,5 +1,5 @@
 # 💫 About Me:
-Diploma in Software Engineering • German-Malaysian Institute<br><br>I'm a software engineering student with a strong interest in system development, automation, and AI-driven applications
+Diploma in Software Engineering(German-Malaysian Institute)<br><br>I’m a Diploma in Software Engineering student who enjoys building practical, well-structured applications. I’m focused on learning how real systems work, improving my development skills, and exploring how automation and modern technologies can make software more efficient. I’m continuously working on projects to deepen my understanding of coding, problem-solving, and creating solutions that are reliable and easy to maintain.
 
 
 ## 🌐 Socials:
@@ -13,10 +13,9 @@ Diploma in Software Engineering • German-Malaysian Institute<br><br>I'm a soft
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HaziqMikail&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HaziqMikail&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=HaziqMikail&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HaziqMikail&limit=5&theme=dark&combine_all_yearly_contributions=true)
